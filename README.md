@@ -1,1 +1,1 @@
-# DataProject-📌 market-signal-lights
+# DataProject 📌 market-signal-lights
